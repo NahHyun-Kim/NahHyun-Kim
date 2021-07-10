@@ -9,3 +9,5 @@
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cherish21001298@gmail.com)](mailto:cherish21001298@gmail.com)
  </div>
  -->
+<br />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NahHyun-Kim)](https://github.com/anuraghazra/github-readme-stats)
